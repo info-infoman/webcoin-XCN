@@ -1,14 +1,8 @@
 var magic = 0xd9b4bef9
-var defaultPort = 8333
+var defaultPort = 8253
 
 var dnsSeeds = [
-  'seed.bitcoin.sipa.be',
-  'dnsseed.bluematt.me',
-  'dnsseed.bitcoin.dashjr.org',
-  'seed.bitcoinstats.com',
-  'seed.bitnodes.io',
-  'bitseed.xf2.org',
-  'seed.bitcoin.jonasschnelli.ch'
+  'explorer.cryptonite.info'
 ]
 var webSeeds = [
   'wss://us-west.seed.webcoin.io:8192'
