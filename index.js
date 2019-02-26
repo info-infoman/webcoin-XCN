@@ -1,4 +1,4 @@
-var params = require('webcoin-params')
+var params = require('webcoin-params-XCN')
 
 module.exports = params({
   blockchain: require('./src/blockchain.js'),
